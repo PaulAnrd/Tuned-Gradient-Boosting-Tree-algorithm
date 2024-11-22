@@ -1,12 +1,6 @@
 # Gradient Boosting Tree algorithm 
 
-Team : 
-- David Bettane
-- Gaspard Devoivre
-- Yahya Mohammed Y Alqahtani
-- Paul Ainardi
 
----
 ### What does the model you have implemented do and when should it be used?
 The model we have implemented is a gradient boosting tree. This model works by adding decision trees iteratively with the goal of lowering the error in order to predict accurately. This model has some advantages, such as being more flexible than other models; for example, it can work with both linear and non-linear data. It is also better at avoiding overfitting compared to some other models.
 
